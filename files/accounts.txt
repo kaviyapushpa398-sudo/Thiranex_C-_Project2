@@ -1,0 +1,3 @@
+1001|John Doe|9876543210|123 Main St, Springfield|Savings|5000.00
+1002|Jane Smith|9123456780|456 Elm St, Shelbyville|Current|10000.00
+1003|Robert Brown|9988776655|789 Oak Ave, Capital City|Savings|2500.50
